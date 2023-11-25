@@ -3,6 +3,7 @@
 body {
   background-color: #f1c40f;
   overflow: hidden;
+	cursor:url("normal.cur"),default;
 }
 
 h1 {
